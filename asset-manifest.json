@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.1ae6c77a.js",
-    "static/js/453.ea701aca.chunk.js": "/static/js/453.ea701aca.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.1ae6c77a.js.map": "/static/js/main.1ae6c77a.js.map",
-    "453.ea701aca.chunk.js.map": "/static/js/453.ea701aca.chunk.js.map"
+    "main.css": "/bebidapp/static/css/main.e6c13ad2.css",
+    "main.js": "/bebidapp/static/js/main.220f41e2.js",
+    "static/js/453.ea701aca.chunk.js": "/bebidapp/static/js/453.ea701aca.chunk.js",
+    "index.html": "/bebidapp/index.html",
+    "main.e6c13ad2.css.map": "/bebidapp/static/css/main.e6c13ad2.css.map",
+    "main.220f41e2.js.map": "/bebidapp/static/js/main.220f41e2.js.map",
+    "453.ea701aca.chunk.js.map": "/bebidapp/static/js/453.ea701aca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.1ae6c77a.js"
+    "static/js/main.220f41e2.js"
   ]
 }
