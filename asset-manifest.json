@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bebidapp/static/css/main.07b612a6.css",
-    "main.js": "/bebidapp/static/js/main.551671d0.js",
+    "main.js": "/bebidapp/static/js/main.b4627c7f.js",
     "static/js/453.ea701aca.chunk.js": "/bebidapp/static/js/453.ea701aca.chunk.js",
     "index.html": "/bebidapp/index.html",
     "main.07b612a6.css.map": "/bebidapp/static/css/main.07b612a6.css.map",
-    "main.551671d0.js.map": "/bebidapp/static/js/main.551671d0.js.map",
+    "main.b4627c7f.js.map": "/bebidapp/static/js/main.b4627c7f.js.map",
     "453.ea701aca.chunk.js.map": "/bebidapp/static/js/453.ea701aca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07b612a6.css",
-    "static/js/main.551671d0.js"
+    "static/js/main.b4627c7f.js"
   ]
 }
